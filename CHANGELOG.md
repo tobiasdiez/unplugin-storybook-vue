@@ -2,10 +2,9 @@
 
 ## [0.1.1](https://github.com/tobiasdiez/unplugin-storybook-vue/compare/v0.1.0...v0.1.1) (2023-01-09)
 
-
 ### 🧹 Miscellaneous
 
-* prettier should ignore pnpm lockfile ([410b03d](https://github.com/tobiasdiez/unplugin-storybook-vue/commit/410b03dc261c72cad50ce84d1d9b3385a51ba651))
+- prettier should ignore pnpm lockfile ([410b03d](https://github.com/tobiasdiez/unplugin-storybook-vue/commit/410b03dc261c72cad50ce84d1d9b3385a51ba651))
 
 ## 0.1.0 (2023-01-09)
 
