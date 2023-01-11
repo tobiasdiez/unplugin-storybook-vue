@@ -1,7 +1,7 @@
 {
   "name": "storybook-vue-addon",
   "version": "0.1.0",
-  "packageManager": "pnpm@7.23.0",
+  "packageManager": "pnpm@7.24.3",
   "description": "Storybook stories in native Vue format",
   "license": "MIT",
   "homepage": "https://github.com/tobiasdiez/unplugin-storybook-vue#readme",
@@ -89,7 +89,7 @@
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@types/node": "^18.11.18",
     "@types/prettier": "^2.7.2",
-    "@vitest/coverage-c8": "^0.26.3",
+    "@vitest/coverage-c8": "^0.27.1",
     "cross-env": "^7.0.3",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.6.0",
@@ -102,7 +102,7 @@
     "tsup": "^6.5.0",
     "typescript": "^4.9.4",
     "vite": "^4.0.4",
-    "vitest": "^0.26.3",
+    "vitest": "^0.27.0",
     "vue": "^3.2.45",
     "webpack": "^5.75.0"
   },
